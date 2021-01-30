@@ -16,7 +16,7 @@ pickleshare==0.7.4
 prompt-toolkit==1.0.15
 pycrypto==2.6.1
 Pygments==2.2.0
-pygobject==3.26.1
+pygobject==3.27.0
 pyxdg==0.25
 scandir==1.7
 SecretStorage==2.3.1
